@@ -1,13 +1,16 @@
 project:
   type: website
+  output-dir: Docs
 
 website:
-  title: "jeremysesay.github.io"
+  title: "SESAY Jr. Jeremy S"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Education.qmd
+      - Experience.qmd
 
 format:
   html:

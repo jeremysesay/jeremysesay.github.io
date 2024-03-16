@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Background"
+about: marquee
 ---
 
 About this site
